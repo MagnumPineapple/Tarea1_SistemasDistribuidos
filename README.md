@@ -24,3 +24,5 @@ redis-cli 6381 CONFIG SET maxmemory-policy allkeys-lfu
 redis-cli 6381 CONFIG SET maxmemory 100mb
 ```
 Se debe repetir el mismo procedmiento anterior (paso 3) para todas las particiones (aparte del puerto 6381)
+
+Link del video: https://drive.google.com/file/d/1X5YFJQwpkY9LyNNJaTe6ojpblku-VupK/view?usp=sharing
